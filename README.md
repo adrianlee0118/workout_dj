@@ -1,6 +1,8 @@
 ## About
 Youtube voice controller built using Speech Recognition for Python by Google and Selenium.
 
+![screenshot](docs/workout_dj.PNG)
+
 ## Requirements
 - Python 3.6
 - PyAudio 0.2.11
@@ -8,8 +10,6 @@ Youtube voice controller built using Speech Recognition for Python by Google and
 - Selenium 3.141.0
 - PyAutoGUI (for third party script)
 - Numpy (for third party script)
-
-![screenshot](docs/workout_dj.PNG)
 
 ## Acknowledgements
 
