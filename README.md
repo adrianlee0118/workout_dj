@@ -9,7 +9,7 @@ Youtube voice controller built using Speech Recognition for Python by Google and
 - PyAutoGUI (for third party script)
 - Numpy (for third party script)
 
-
+![screenshot](docs/workout_dj.PNG)
 
 ## Acknowledgements
 
